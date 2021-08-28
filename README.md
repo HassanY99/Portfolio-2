@@ -6,10 +6,9 @@ In this assignment I updated my existing portfolio with my new projects that I h
 
 # Table of Contents
 
-* <a href="#acceptance-criteria">Acceptance Criteria</a>
 * <a href="#deployed-application-and-github-repo-link">Deployed application and Github repo link</a>
 * <a href="#credits">Credits</a>
-* <a href="#conclusion">Conclusion</a>
+* <a href="#Future Tasks">Future Tasks</a>
 
 
 # Deployed application and Github repo link
